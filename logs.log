@@ -1,0 +1,14 @@
+[INFO ] 2022-09-23 09:46:25.163 [main]  - 1 new record added to the database
+[INFO ] 2022-09-23 09:56:53.657 [main]  - rajdeep 8080
+[INFO ] 2022-09-23 09:56:53.664 [main]  - shikhar 9090
+[INFO ] 2022-09-23 10:02:36.361 [main]  - Total 0 rows updated!
+[INFO ] 2022-09-23 10:04:52.392 [main]  - rajdeep 629696
+[INFO ] 2022-09-23 10:04:52.392 [main]  - shikhar 9090
+[INFO ] 2022-09-23 10:07:42.163 [main]  - 1 rows deleted!
+[INFO ] 2022-09-23 10:08:20.728 [main]  - 1 rows updated!
+[INFO ] 2022-09-23 10:12:43.905 [main]  - 1 rows updated!
+[INFO ] 2022-09-23 10:15:43.863 [main]  - firstName=rajdeep, lastName=617, address=address, email=email, phoneNumber=9090, dateOfBirth=1212-12-12, dateOfWedding=2222-12-12
+[INFO ] 2022-09-23 10:17:14.965 [main]  - Total 1 rows updated!
+[INFO ] 2022-09-23 10:19:01.415 [main]  - shikhar 9234567890
+[INFO ] 2022-09-23 10:23:07.447 [main]  - shikhar sop
+
